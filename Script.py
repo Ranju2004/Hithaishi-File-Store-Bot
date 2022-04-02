@@ -3,7 +3,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✨ 𝗡𝗔𝗠𝗘 : {}
-✨ 𝗢𝗪𝗡𝗘𝗥 : <a href=https://t.me/Hithaishi_Desai>𝗛𝗜𝗧𝗛𝗔𝗜𝗦𝗛𝗜 𝗗𝗘𝗦𝗔𝗜</a>
+✨ 𝗢𝗪𝗡𝗘𝗥 : <a href=https://t.me/Appuranju2004>APPU Ranju</a>
 ✨ 𝗟𝗜𝗕𝗥𝗔𝗥𝗬 :𝗣𝗬𝗥𝗢𝗚𝗥𝗔𝗠
 ✨ 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘 : 𝗣𝗬𝗧𝗛𝗢𝗡 3
 ✨ 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 : 𝗠𝗢𝗡𝗚𝗢 𝗗𝗕
@@ -11,10 +11,10 @@ class script(object):
 ✨ 𝗕𝗨𝗜𝗟𝗗 𝗦𝗧𝗔𝗧𝗨𝗦 : 𝗩1.0.1 [𝗕𝗘𝗧𝗔]"""
     SOURCE_TXT = """<b>NOTE:</b>
 👻 THIS is a open source project. 
-👻 Source Code- https://github.com/HithaishiDesai/Hithaishi-File-Store-Bot  
+👻 Source Code- https://github.com/Ranju2004/Hithaishi-File-Store-Bot  
 
 <b>👻 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥:</b>
-- <a href=https://github.com/HithaishiDesai/Hithaishi-File-Store-Bot>𝗛𝗜𝗧𝗛𝗔𝗜𝗦𝗛𝗜 𝗗𝗘𝗦𝗔𝗜</a>"""
+- <a href=https://github.com/Ranju2004/Hithaishi-File-Store-Bot>RK2004</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
