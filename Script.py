@@ -3,7 +3,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✨ 𝗡𝗔𝗠𝗘 : {}
-✨ 𝗢𝗪𝗡𝗘𝗥 : <a href=https://t.me/Hithaishi_Desai>𝗛𝗜𝗧𝗛𝗔𝗜𝗦𝗛𝗜 𝗗𝗘𝗦𝗔𝗜</a>
+✨ 𝗢𝗪𝗡𝗘𝗥 : <a href=https://t.me/Appuranju2004>𝗛𝗜𝗧𝗛𝗔𝗜𝗦𝗛𝗜 𝗗𝗘𝗦𝗔𝗜</a>
 ✨ 𝗟𝗜𝗕𝗥𝗔𝗥𝗬 :𝗣𝗬𝗥𝗢𝗚𝗥𝗔𝗠
 ✨ 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘 : 𝗣𝗬𝗧𝗛𝗢𝗡 3
 ✨ 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘 : 𝗠𝗢𝗡𝗚𝗢 𝗗𝗕
